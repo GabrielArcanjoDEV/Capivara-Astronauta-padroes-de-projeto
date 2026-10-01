@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320">
+      <defs>
+        <linearGradient id="fur" x1="0" y1="0" x2="0.85" y2="1"><stop stop-color="#e9b77e"/><stop offset="1" stop-color="#b97648"/></linearGradient>
+        <linearGradient id="suit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#b8e2ff"/></linearGradient>
+        <linearGradient id="visor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bafaff"/><stop offset="1" stop-color="#5689df"/></linearGradient>
+      </defs>
+      <ellipse cx="162" cy="291" rx="81" ry="11" fill="#07122f" opacity=".25"/>
+      <!-- backpack -->
+      <path d="M104 193 Q87 189 86 211 L91 247 Q93 260 108 257 L123 245 L120 208Z" fill="#697fda" stroke="#4962ad" stroke-width="4"/>
+      <rect x="93" y="214" width="15" height="23" rx="5" fill="#8bf0ed"/>
+      <!-- suit torso and arms -->
+      <path d="M125 204 Q111 213 111 244 L119 272 Q160 290 202 272 L212 241 Q210 213 194 204Z" fill="url(#suit)" stroke="#6da7d8" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M126 218 Q106 217 94 237 L87 257 Q91 274 106 273 L128 250Z" fill="url(#suit)" stroke="#6da7d8" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M194 218 Q215 216 230 235 L236 254 Q231 273 216 271 L194 249Z" fill="url(#suit)" stroke="#6da7d8" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M139 266 L134 285 Q133 292 143 292 L157 292 Q166 289 162 281 L160 269Z" fill="#a96c45" stroke="#815035" stroke-width="3"/>
+      <path d="M176 269 L174 283 Q170 292 182 292 L198 292 Q207 289 200 280 L194 265Z" fill="#a96c45" stroke="#815035" stroke-width="3"/>
+      <path d="M126 270 L157 270 L155 279 L130 279Z M174 270 L200 270 L196 279 L173 279Z" fill="#ffcf74"/>
+      <!-- neck -->
+      <path d="M146 197 L145 215 Q161 226 179 214 L178 196Z" fill="#c88a58"/>
+      <!-- ears -->
+      <path d="M117 117 Q103 91 116 75 Q130 65 142 91 L143 121Z" fill="#b97648" stroke="#875133" stroke-width="5"/>
+      <path d="M121 99 Q116 83 124 82 Q132 84 135 103Z" fill="#e8a27d"/>
+      <path d="M196 99 Q206 69 223 81 Q237 96 222 124Z" fill="#b97648" stroke="#875133" stroke-width="5"/>
+      <path d="M207 98 Q215 84 222 91 L217 108Z" fill="#e8a27d"/>
+      <!-- head -->
+      <path d="M111 126 Q117 98 153 96 Q201 92 222 126 Q238 153 222 185 Q207 213 171 215 Q132 215 112 187 Q99 165 111 126Z" fill="url(#fur)" stroke="#875133" stroke-width="5"/>
+      <!-- muzzle -->
+      <path d="M122 160 Q130 141 151 143 Q174 145 190 158 Q202 170 192 186 Q178 202 151 195 Q125 190 122 174Z" fill="#f2c997"/>
+      <path d="M131 145 Q153 132 178 143" fill="none" stroke="#f7d9b2" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+      <ellipse cx="147" cy="164" rx="4.5" ry="6" fill="#35221b"/><ellipse cx="198" cy="164" rx="4.5" ry="6" fill="#35221b"/>
+      <ellipse cx="129" cy="180" rx="8" ry="5" fill="#ef9b94" opacity=".55"/>
+      <ellipse cx="207" cy="179" rx="8" ry="5" fill="#ef9b94" opacity=".45"/>
+      <ellipse cx="175" cy="193" rx="7" ry="10" fill="#5b3026"/><path d="M171 199 q4 -4 8 0" stroke="#f6a2a1" stroke-width="3" fill="none"/><path d="M225 145 q-11 14 0 19 q11 -5 0 -19" fill="#76e7ff" stroke="#fff" stroke-width="1.5"/>
+      <!-- suit details in front -->
+      <path d="M131 222 L190 222 L197 258 Q162 270 124 258Z" fill="#eaf7ff" stroke="#77addb" stroke-width="4"/>
+      <rect x="145" y="226" width="31" height="26" rx="6" fill="#5ed9e5" stroke="#4188b7" stroke-width="3"/>
+      <circle cx="160.5" cy="239" r="6" fill="#f8ffff"/>
+      <path d="M136 261 L186 261" stroke="#8cbce4" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="111" cy="244" r="7" fill="#ffe17a" stroke="#c99b39" stroke-width="2"/>
+      <path d="M107 244h8 M111 240v8" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    </svg>
